@@ -4,7 +4,8 @@
   "description": "Web scraping application that scrapes into a mongodb and allows users to view posts scraped from a website and comment on them.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
